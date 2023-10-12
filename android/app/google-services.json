@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "897848029088",
+    "project_id": "credsave-16879",
+    "storage_bucket": "credsave-16879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897848029088:android:f9160462fe412f6fda3ec5",
+        "android_client_info": {
+          "package_name": "com.bingiz.cred_save"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897848029088-2becckemtpu02k99sp0m9udc1cllvh5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bingiz.cred_save",
+            "certificate_hash": "fdad2aebcbd6ea8637e2986c6ad38f6e0bd396b5"
+          }
+        },
+        {
+          "client_id": "897848029088-7j2uf53cmohq2fb5nel71ar0dl0vlnp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQKsFXkDdtKxNlWUVx4j_ssXorn4rUYn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897848029088-7j2uf53cmohq2fb5nel71ar0dl0vlnp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
